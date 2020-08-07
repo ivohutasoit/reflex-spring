@@ -1,0 +1,9 @@
+[submodule "reflex-web"]
+	path = reflex-web
+	url = https://github.com/ivohutasoit/reflex-web.git
+[submodule "reflex-domain"]
+	path = reflex-domain
+	url = https://github.com/ivohutasoit/reflex-domain.git
+[submodule "reflex-core"]
+	path = reflex-core
+	url = https://github.com/ivohutasoit/reflex-core.git
