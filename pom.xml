@@ -13,13 +13,13 @@
     <name>reflex-spring</name>
     <description>Web template using Java, Spring Boot and Maven</description>
     <modules>
-        <module>reflex-web</module>
         <module>reflex-domain</module>
         <module>reflex-core</module>
+        <module>reflex-web</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>11</java.version>
+        <java.version>13</java.version>
     </properties>
     <dependencies>
         <dependency>
